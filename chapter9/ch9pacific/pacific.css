@@ -159,8 +159,8 @@ tr:nth-last-of-type(odd) {
     display: block; /* db */
     border-bottom: none; /* db:n */
   }
-  special td,
-  special th {
+  #special td,
+  #special th {
     display: block; /* db */
   }
   /* Hide the table header element */
